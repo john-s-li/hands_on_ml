@@ -2,3 +2,5 @@
 *.csv
 *.tgz
 *.pkl
+**/MNIST/
+**/celeba
