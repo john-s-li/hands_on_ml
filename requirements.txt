@@ -6,4 +6,4 @@ scipy>=1.0
 scikit-learn
 tqdm
 torch
-torchvision
+torchvision==0.12.0
